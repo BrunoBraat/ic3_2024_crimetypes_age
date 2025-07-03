@@ -1,0 +1,17 @@
+﻿Crime Type;Under 20;20-29;30-39;40-49;50-59
+Advanced Fee;220;971;1102;968;1009
+Business Email Compromise;90;800;2058;2934;3047
+Botnet;74;99;79;55;42
+Confidence/Romance;272;1219;1814;2056;2365
+Credit Card/Check Fraud;295;1206;1690;1641;1642
+Data Breach;33;147;358;523;402
+Extortion;6540;13811;6180;4305;3620
+Government Impersonation;161;1462;1894;1818;1711
+Identity Theft;288;1922;3550;3163;2688
+Investment;399;3453;6822;6873;5797
+Non-Payment/Non-Delivery;1691;7644;8436;7466;5848
+Personal Data Breach;1335;6312;10756;9870;7008
+Phishing/Spoofing;203;1088;1532;1701;2060
+Ransomware;12;62;120;211;253
+Tech Support;279;1928;2537;2794;3584
+Cryptocurrency;858;6277;10885;10338;8953
